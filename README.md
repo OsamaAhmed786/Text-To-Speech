@@ -19,6 +19,7 @@ The Text-to-Speech (TTS) Synthesis Project is a Python-based application that de
     ```bash
     pip install gtts
     pip install pygame
+    pip install os
     ```
 
 ### Usage
@@ -40,6 +41,7 @@ The Text-to-Speech (TTS) Synthesis Project is a Python-based application that de
 
 - GTTS: The library used for text-to-speech conversion.
 - pygame: Used for playing the generated speech.
+- os: The library used for join paths.
 
 ### Future Enhancements
 
